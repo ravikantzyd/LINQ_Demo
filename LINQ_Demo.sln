@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ_OrderBy", "LINQ_OrderB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderByDecending", "OrderByDecending\OrderByDecending.csproj", "{C71B5B5A-2BA3-473E-8967-4A2389724E10}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ_ThenBy", "LINQ_ThenBy\LINQ_ThenBy.csproj", "{9A3392E8-0FCE-45F4-AA17-A7E3B993C113}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{C71B5B5A-2BA3-473E-8967-4A2389724E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C71B5B5A-2BA3-473E-8967-4A2389724E10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C71B5B5A-2BA3-473E-8967-4A2389724E10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A3392E8-0FCE-45F4-AA17-A7E3B993C113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A3392E8-0FCE-45F4-AA17-A7E3B993C113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A3392E8-0FCE-45F4-AA17-A7E3B993C113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A3392E8-0FCE-45F4-AA17-A7E3B993C113}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
